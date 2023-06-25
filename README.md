@@ -36,11 +36,9 @@ To use this project, follow these steps:
 
 3. Explore the `notebooks/` directory to understand the project's workflow and steps involved.
 
-4. Run the provided Jupyter notebooks to reproduce the data preprocessing, model training, and evaluation steps.
-
 5. If necessary, modify or extend the code to suit your specific needs. You can add new features, experiment with different machine learning algorithms, or explore different datasets.
 
-6. Save your trained models in the `models/` directory or any other location of your choice. Update the necessary code references to reflect the new model locations.
+6. Save your cleaned CSV data in the `teams` file or any other location of your choice. Update the necessary code references to reflect the new model locations.
 
 7. Document any changes, improvements, or additions you make to the project, including updating the `README.md` file to reflect the new functionalities or modifications.
 
